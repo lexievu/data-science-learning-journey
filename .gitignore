@@ -194,3 +194,6 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
+04_Statistics/2002FemPreg.dat.gz
+04_Statistics/2002FemPreg.dct
+04_Statistics/thinkstats.py
